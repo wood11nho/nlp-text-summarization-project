@@ -33,10 +33,7 @@ This project focuses on implementing an extractive method for text summarization
 ## Results
 
 - **Comparison Graph**: [`comparison_graph.png`](comparison_graph.png)
-  - Comparison of the generated summaries with the original summaries.
-  
-- **Statistics Plot**: [`statistic_plot.png`](statistic_plot.png) and [`statistics_plot.html`](statistics_plot.html)
-  - Statistical analysis and visual representation of the summarization performance.
+  - Comparison of the accuracy of the results of the generated summaries, using BLEU and Sentence Similarity.
 
 - **Graph Based Method Visualization**: [`graphbased.png`](graphbased.png)
   - Visualization of the graph-based method's working.
